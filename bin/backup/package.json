@@ -1,0 +1,13 @@
+{
+  "name": "instalacao de cliente gpon ZTE",
+  "version": "0.1.0",
+  "description": "Automatização de ativacao de cliente",
+  "author": "tandrade",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^2.11.0",
+    "http": "0.0.0",
+    "mongodb": "^2.2.30",
+    "querystring": "^0.2.0"
+  }
+}

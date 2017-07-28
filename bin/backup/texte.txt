@@ -1,0 +1,7 @@
+MongoDB shell version: 1.2.2
+url: 192.168.0.105:27017/genieacs
+connecting to: 192.168.0.105:27017/genieacs
+type "exit" to exit
+type "help" for help
+> { "_id" : "78303B-SGN8668MVWG2-78303B08EE7F" }
+> bye
